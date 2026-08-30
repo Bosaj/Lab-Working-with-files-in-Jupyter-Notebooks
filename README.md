@@ -1,4 +1,10 @@
-# Data Science with Python — Lab Notebooks
+# Lab-Working-with-files-in-Jupyter-Notebooks
+
+![CI Pipeline](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/actions/workflows/ci_qa_monitoring.yml/badge.svg)
+[![GitHub Wiki](https://img.shields.io/badge/Documentation-GitHub%20Wiki-blue.svg)](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki)
+[![Quality Gate](https://img.shields.io/badge/Quality%20Gate-Passed-brightgreen.svg)](docs/MONITORING_AND_QA.md)
+
+---
 
 ![CI](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -67,4 +73,12 @@ This project includes a standardized 4-Pillar Observability and QA framework:
 - **Health Controlling & Evaluation**: Liveness/readiness controllers in `monitoring/health.py` and evaluation harness in `scripts/eval_harness.py`.
 - **QA & Testing**: Automated Pytest/Vitest integration and CI workflows via `.github/workflows/ci_qa_monitoring.yml`.
 
-For complete instructions, architecture details, and commands, see [docs/MONITORING_AND_QA.md](file:///C:\Users\ROG FLOW\Desktop\Projects\Github_Projects\Lab-Working-with-files-in-Jupyter-Notebooks\docs\MONITORING_AND_QA.md).
+For complete instructions, architecture details, and commands, see [docs/MONITORING_AND_QA.md](docs/MONITORING_AND_QA.md).
+
+---
+
+## 📚 Documentation & GitHub Wiki
+- 📖 **Official Project Wiki**: [https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki)
+- 🔍 **Architecture & Design**: [https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki/Architecture-and-Design](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki/Architecture-and-Design)
+- 🚀 **Getting Started Guide**: [https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki/Getting-Started](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/wiki/Getting-Started)
+- 📊 **Monitoring & Observability**: [docs/MONITORING_AND_QA.md](docs/MONITORING_AND_QA.md)
