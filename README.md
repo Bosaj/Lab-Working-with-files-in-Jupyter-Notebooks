@@ -1,5 +1,8 @@
 # Lab-Working-with-files-in-Jupyter-Notebooks
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks) [![GitHub release](https://img.shields.io/github/v/release/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks?color=blue&label=release)](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/releases) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 <p align="center">
   <img src="assets/social_preview.png" alt="Lab-Working-with-files-in-Jupyter-Notebooks Banner" width="100%">
 </p>
