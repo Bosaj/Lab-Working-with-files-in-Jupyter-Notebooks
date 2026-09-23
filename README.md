@@ -13,7 +13,6 @@
 
 ---
 
-![CI](https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 
@@ -48,7 +47,7 @@ Open any of the three notebooks listed above. `WebScarping.ipynb` makes live net
 
 ## Testing / CI
 
-[`.github/workflows/ci.yml`](.github/workflows/ci.yml) validates the structural integrity of all three notebooks on every push.
+[`.github/workflows/ci_qa_monitoring.yml`](.github/workflows/ci_qa_monitoring.yml) validates the structural integrity of all three notebooks on every push.
 
 ## Project Structure
 
