@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Lab Working With Files In Jupyter Notebooks"
+abstract: "Data science labs: ecosystem overview, statistical hypothesis testing (Boston Housing), and yfinance/web-scraping stock dashboards."
+authors:
+  - family-names: "Oussous"
+    given-names: "El Hadji"
+    alias: "Bosaj"
+    email: "oussousselhadji@gmail.com"
+repository-code: "https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks"
+url: "https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks"
+date-released: 2026-10-02
+license: "GPL-3.0-or-later"
+keywords:
+  - "ai"
+  - "software-engineering"
+  - "bosaj"
