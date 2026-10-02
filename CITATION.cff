@@ -3,8 +3,8 @@ message: "If you use this software, please cite it using the metadata from this 
 title: "Lab Working With Files In Jupyter Notebooks"
 abstract: "Data science labs: ecosystem overview, statistical hypothesis testing (Boston Housing), and yfinance/web-scraping stock dashboards."
 authors:
-  - family-names: "Oussous"
-    given-names: "El Hadji"
+  - family-names: "EL HADJI"
+    given-names: "Oussama"
     alias: "Bosaj"
     email: "oussousselhadji@gmail.com"
 repository-code: "https://github.com/Bosaj/Lab-Working-with-files-in-Jupyter-Notebooks"
